@@ -1,0 +1,3 @@
+#!/bin/sh
+t3make -f links_awakening.t3m
+frob links_awakening.t3

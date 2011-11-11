@@ -1,0 +1,7 @@
+-D MESSAGESTYLE=neu
+-D LANGUAGE=en_us
+-Fy obj -Fo obj
+-o links_awakening.t3
+-lib system
+-lib adv3/adv3
+-source links_awakening

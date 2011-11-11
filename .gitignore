@@ -1,3 +1,4 @@
 *.t3s
 obj
 *.t3
+GameInfo.txt
